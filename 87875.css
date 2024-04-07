@@ -1,0 +1,26 @@
+body {
+    background-image:url(10806966.jpg);
+    border: 5px double rgb(255, 255, 255);
+}
+
+.icon-bar {
+    width: 100%; 
+    overflow: auto; 
+}
+
+.icon-bar a {
+    font-family: courier;
+    float: left; 
+    text-align: center; 
+    width: 20%; 
+    padding: 6px 0; 
+    transition: all 0.3s ease; 
+    color: white; 
+    font-size: 25px; 
+}
+
+.icon-bar a:hover {
+    color:white;
+    background-color: #000; 
+}
+
