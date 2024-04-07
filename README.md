@@ -1,2 +1,2 @@
-# taty_japan.io
+# taty_japan
 Japanese style tattoo with description
